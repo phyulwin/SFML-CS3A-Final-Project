@@ -1,3 +1,0 @@
-C:/Users/646ca/CLionProjects/CS3A/PhyuLwin_Portfolio/cmake-build-debug/CMakeFiles/SFML_template.dir
-C:/Users/646ca/CLionProjects/CS3A/PhyuLwin_Portfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/646ca/CLionProjects/CS3A/PhyuLwin_Portfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
